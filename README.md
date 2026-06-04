@@ -9,6 +9,8 @@
 [![Star](https://img.shields.io/badge/Star-GitHub-yellow?style=for-the-badge)](https://github.com/your-username/ai-interviewer-app/stargazers)
 [![Fork](https://img.shields.io/badge/Fork-GitHub-orange?style=for-the-badge)](https://github.com/your-username/ai-interviewer-app/fork)
 
+![AI Interviewer Dashboard](AI-Interviewer.png)
+
 ---
 
 ## 🚀 What is this?
