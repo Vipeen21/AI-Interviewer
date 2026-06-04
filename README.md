@@ -30,7 +30,7 @@ AI Interviewer App is a professional, browser-based interview simulator built fo
 ## ⭐ Why it stands out
 
 - **Multi-domain coverage:** AI, ML, Data Science, Data Analyst, Accounting
-- **Big Four-ready:** Deloitte, KPMG, PwC, EY plus top tech companies
+- **Top Tech and Big Four Companies:** META, GOOGLE, AMAZON, MICROSOFT, Deloitte, KPMG, PwC, EY plus top tech companies
 - **Audio & typed response modes:** flexible candidate experience
 - **Bias-resistant fallback scoring:** works even when Gemini quota is limited
 - **Full lifecycle feedback:** final verdict, strengths, weaknesses, improvement plan
