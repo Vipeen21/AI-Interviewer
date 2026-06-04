@@ -5,9 +5,9 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-Interactive-orange?style=for-the-badge)](https://streamlit.io/)
 [![Google Gemini](https://img.shields.io/badge/Gemini-AI%20Assistant-purple?style=for-the-badge)](https://cloud.google.com/genai)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-[![Follow](https://img.shields.io/badge/Follow-%40yourhandle-blue?style=for-the-badge)](https://github.com/Vipeen21)
-[![Star](https://img.shields.io/badge/Star-GitHub-yellow?style=for-the-badge)](https://github.com/Vipeen21/ai-interviewer-app/stargazers)
-[![Fork](https://img.shields.io/badge/Fork-GitHub-orange?style=for-the-badge)](https://github.com/Vipeen21/ai-interviewer-app/fork)
+[![Follow](https://img.shields.io/badge/Follow-Vipeen21-blue?style=for-the-badge)](https://github.com/Vipeen21)
+[![Star](https://img.shields.io/badge/Star-GitHub-yellow?style=for-the-badge)](https://github.com/Vipeen21/AI-Interviewer/stargazers)
+[![Fork](https://img.shields.io/badge/Fork-GitHub-orange?style=for-the-badge)](https://github.com/Vipeen21/AI-Interviewer/fork)
 
 ![AI Interviewer Dashboard](AI-Interviewer.png)
 
