@@ -121,10 +121,8 @@ def final_scorecard(st, genai_available=True, call_model_fn=None):
         strengths = [k for k, v in normalized.items() if v >= 70]
         weaknesses = [k for k, v in normalized.items() if v < 40]
         coding_score = normalized["Coding"]
-        if coding_score >= 80:
-            strengths.append("Coding")
-        elif coding_score < 40:
-            weaknesses.append("Coding")
+        strengths = list(dict.fromkeys(strengths))
+        weaknesses = list(dict.fromkeys(weaknesses))
 
         verdict = "No Hire"
         if overall >= 85:
